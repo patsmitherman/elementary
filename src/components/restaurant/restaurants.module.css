@@ -1,0 +1,25 @@
+.wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.list {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.loadingText {
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 10px;
+}
+
+.loader {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
